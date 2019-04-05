@@ -1,1 +1,2 @@
-# OSS19
+# 21200533 Sungmin Lee
+OSS 2019_1
